@@ -9,7 +9,7 @@ df = pd.DataFrame({
 data = df["Name"]
 print(data)
 # selecting mutiple data
-mul_data = df[["Name","Age"]]
+mul_data = df[["Name","Age","Country"]]
 print(mul_data)
 # using loc: it is label based
 # getting specific value

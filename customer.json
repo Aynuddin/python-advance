@@ -1,0 +1,102 @@
+[
+  {
+    "CustomerID": 101,
+    "Name": "Amit",
+    "Age": 28,
+    "Country": "India",
+    "City": "Bangalore",
+    "Email": "amit@example.com",
+    "PurchaseAmount": 1500,
+    "IsActive": true
+  },
+  {
+    "CustomerID": 102,
+    "Name": "Priya",
+    "Age": 32,
+    "Country": "India",
+    "City": "Mumbai",
+    "Email": "priya@example.com",
+    "PurchaseAmount": 2200,
+    "IsActive": true
+  },
+  {
+    "CustomerID": 103,
+    "Name": "John",
+    "Age": 25,
+    "Country": "USA",
+    "City": "New York",
+    "Email": "john@example.com",
+    "PurchaseAmount": 1800,
+    "IsActive": false
+  },
+  {
+    "CustomerID": 104,
+    "Name": "Sara",
+    "Age": 35,
+    "Country": "UK",
+    "City": "London",
+    "Email": "sara@example.com",
+    "PurchaseAmount": 3200,
+    "IsActive": true
+  },
+  {
+    "CustomerID": 105,
+    "Name": "Rahul",
+    "Age": null,
+    "Country": "India",
+    "City": "Delhi",
+    "Email": "rahul@example.com",
+    "PurchaseAmount": 1200,
+    "IsActive": true
+  },
+  {
+    "CustomerID": 106,
+    "Name": null,
+    "Age": 29,
+    "Country": "India",
+    "City": "Chennai",
+    "Email": "neha@example.com",
+    "PurchaseAmount": 2500,
+    "IsActive": true
+  },
+  {
+    "CustomerID": 107,
+    "Name": "David",
+    "Age": 41,
+    "Country": null,
+    "City": "Toronto",
+    "Email": "david@example.com",
+    "PurchaseAmount": 4100,
+    "IsActive": false
+  },
+  {
+    "CustomerID": 108,
+    "Name": "Neha",
+    "Age": 27,
+    "Country": "India",
+    "City": "Hyderabad",
+    "Email": null,
+    "PurchaseAmount": 1900,
+    "IsActive": true
+  },
+  {
+    "CustomerID": 109,
+    "Name": "Alex",
+    "Age": 38,
+    "Country": "USA",
+    "City": "Chicago",
+    "Email": "alex@example.com",
+    "PurchaseAmount": 2800,
+    "IsActive": false
+  },
+  {
+    "CustomerID": 110,
+    "Name": "Ravi",
+    "Age": 30,
+    "Country": "India",
+    "City": "Pune",
+    "Email": "ravi@example.com",
+    "PurchaseAmount": 3500,
+    "IsActive": true
+  }
+]
