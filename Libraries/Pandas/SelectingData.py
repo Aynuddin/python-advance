@@ -11,6 +11,7 @@ print(data)
 # selecting mutiple data
 mul_data = df[["Name","Age","Country"]]
 print(mul_data)
+
 # using loc: it is label based
 # getting specific value
 loc_data = df.loc[0,"Name"]
@@ -39,3 +40,7 @@ print(first_tow_row_allValues)
 # Selecting rows with iloc
 f1_row_data = df.iloc[0]
 print(f1_row_data)
+
+# use loc[] or iloc[] to find the specific data from DataFrame(df).
+# loc[] : this will work on label specific value
+# Syntax = df.loc["Amount"] -> will give full Amount value
